@@ -1,0 +1,12 @@
+/.bundle/
+.idea/*
+.ruby-gemset
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+/vendor/bundle/
+sprig-pantry*.gem

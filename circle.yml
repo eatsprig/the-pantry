@@ -1,0 +1,6 @@
+database:
+  override:
+    - echo "No database setup required."
+test:
+  override:
+    - bundle exec rspec
