@@ -1,4 +1,4 @@
-# Pantry
+# Pantry [![Build Status](https://travis-ci.org/eatsprig/the-pantry.svg?branch=master)](https://travis-ci.org/eatsprig/the-pantry)
 
 Pantry provides ActiveRecord model caching in Redis via a mixin. **Before you go to the store, check the pantry!**
 
