@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    the-pantry (1.0.0)
+    the-pantry (1.1.0)
       activerecord (>= 4.2.8)
       hiredis (~> 0.6)
       json (~> 1.8)
